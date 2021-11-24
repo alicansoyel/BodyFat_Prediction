@@ -1,6 +1,6 @@
 # Body Fat Prediction(Vücut Yağ Oranı Tahmini) Uygulaması
 
-Bu proje, gerçek insanların verilerinden oluşan bir veri setinin, makine öğrenmesi yöntemleri kullanılarak kişinin hastalık tahminine olanak tanımaktadır.
+Bu proje, gerçek insanların verilerinden oluşan bir veri setinin, makine öğrenmesi yöntemleri kullanılarak kişinin vücut yağ oranı tahminine olanak tanımaktadır.
 
 >**Proje Klasör İçeriği**
 
